@@ -7,7 +7,7 @@ import NftList from '../components/card/NftList'
 import { NFT, ServerResponse } from '../utils/type'
 import axios, {AxiosResponse} from "axios"
 import Image from 'next/image'
-import { Test } from 'mocha';
+// import { Test } from 'mocha';
 
 export interface Props {
   nft: NFT 
